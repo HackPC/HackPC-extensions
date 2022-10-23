@@ -454,8 +454,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.MangaFreak = exports.MangaFreakInfo = void 0;
 const types_1 = require("@paperback/types");
 const MangaFreakParser_1 = require("./MangaFreakParser");
-const MangaFreak_BASE = 'https://w13.mangafreak.net';
-const MangaFreak_CDN = 'https://images.mangafreak.net';
+const MangaFreak_BASE = 'https://murim-manga.com';
+const MangaFreak_CDN = 'https://img.murim-manga.com';
 const userAgent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 12_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15';
 exports.MangaFreakInfo = {
     author: 'xOnlyFadi',
